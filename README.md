@@ -1,7 +1,7 @@
 ## Forage Accenture Virtual Intership : Data Analytics and Visualization Projects
 
 ### Repository Description:
-This repository showcases my work in data analytics and visualization, particularly focused on real-world business problem-solving using data insights. It includes projects from the job simulations I completed on the Forage platform, where I had the opportunity to apply my skills in cleaning, modeling, and analyzing data to deliver actionable insights for clients.
+This repository showcases my work in data analytics and visualization, particularly focused on real-world business problem-solving using data insights. It includes projects from the job simulations I completed on the Forage platform, where I had the opportunity to apply my skills in cleaning, modeling, and analyzing data to deliver actionable insights for clients..
 
 ### Forage Accenture
 This repository showcases my work in data analytics and visualization, including projects from Accenture and Tata Group simulations on Forage. It highlights my skills in data cleaning, modeling, and visualization using Tableau and PowerBI to solve business problems and deliver actionable insights through effective communication and presentations.
